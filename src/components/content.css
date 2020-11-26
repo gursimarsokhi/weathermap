@@ -1,0 +1,29 @@
+.search-bar{
+    width: 100%;
+    border-radius: 6px;
+    background-color: aliceblue;
+    padding: 20px 30px;
+    outline: none;
+    margin: 20px 0;
+    text-align: center;
+    height: 8px;
+    font-size: x-large;
+    font-weight: 600;
+    box-shadow: 0 0 0 0.2rem rgb(18 18 19 / 51%);
+    border: 1px solid #ced4da;
+}
+.load-data{
+    border: 1px solid;
+    padding: 25px;
+    width: 100%;
+    margin: 12px 0px;
+}
+.search-container{
+    width: 100%;
+    background-color: #eae6e0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
